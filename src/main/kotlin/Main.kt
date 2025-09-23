@@ -1,6 +1,6 @@
 package org.example
 
 fun main() {
-    println("Verison 1")
-    println("Aprendendo Git")
+    println("Verison 2")
+    println("Mudei umas besteirinhas ...")
 }
